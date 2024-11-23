@@ -1,0 +1,14 @@
+The CEO concluded: "You are not a good fit for us, as the main functionality of the Kanban board—task dragging—has not been implemented."
+
+
+ps: wht fk ?!
+"Зробити міні-застосунок на основі виконаного алгоритму у попередньому завданні.
+Ідея та концепт is up to you - покажи, що найцікавіше та найсильніше можеш
+показати зі своїх супер-здібностей за невеликий термін часу. Моя пропозиція - task
+management система(kanban дошка), далі ідею можна розвивати, як тобі завгодно:)
+Вимоги по стеку: Frontend - ReactJS/NextJS(бібліотеки які завгодно), backend(при
+використанні) - nodejs(express), бази даних(при використанні) -
+нереляційні(mongodb)." 
+
+
+pss: Where is anything even mentioned about task dragging here? Was the codebase even reviewed? Or is this just about nitpicking and wasting time over minor details? Only 2 days were given to complete the task. My conclusion: this is a scam. It's better to avoid problematic employers like this.
